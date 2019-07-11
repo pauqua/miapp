@@ -1,0 +1,24 @@
+body, html {
+    height: 100%;
+    background-color: #c4E7D4;
+}
+
+h1{
+    font-family: 'Pacifico', cursive;
+    color: #7f0799;
+}
+
+#cuerpo{
+   
+    border-radius: 5%;
+    padding: 30px;
+    background-color: #AFAFDC;
+}
+
+#titulo {
+    text-align: center;
+}
+
+.card-body {
+    width: 121.89px;
+}

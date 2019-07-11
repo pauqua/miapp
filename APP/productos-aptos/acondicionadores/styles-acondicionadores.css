@@ -1,0 +1,40 @@
+.list-group {
+    font-family: 'Raleway', sans-serif;
+    
+  
+ }
+ .list-group-item{
+     margin-bottom: 25px;
+     margin-top: 25px;
+     border-radius: 27px;
+     width:450px;
+  
+}
+
+
+ h1{
+     font-size: 20px;
+     font-weight: bold;
+     padding: 20px;
+     color: #7F0799;
+ }
+
+ body{
+     background-color: #EFFFC8;
+ }
+ .img-producto{
+     height:150px;
+     width:150px;
+ }
+ .glyphicon{
+     color:black;
+ }
+
+ body, html{
+     height:100%;
+     width:100%;
+ }
+
+ .titulo{
+     text-align: center;
+ }

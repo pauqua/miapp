@@ -1,0 +1,55 @@
+
+h1 {
+    font-family: 'Pacifico', cursive;
+} 
+.logo{
+    align-content: center;
+}
+
+.btn-primary {
+    background-color: #9649CB;
+    border-color: #9649CB;
+
+}
+.btn-primary:hover{
+    background-color: #AFBBF2;
+    border-color: #AFBBF2;
+
+}
+.btn-primary:focus{
+    outline-color:#AFBBF2;
+}
+.form-control:focus{
+    outline-color: #a6d49f;
+}
+.cuerpo {
+    background-color: #C4E7D4;
+}
+
+html, body {
+    height: 100%;
+    
+}
+h1 {
+    padding-bottom: 70px;
+    color: black;
+    font-size: 100px;
+    font-family: 'Just Another Hand', cursive;
+    letter-spacing: 1px;
+}
+
+#imagen{
+    width: 600px;
+}
+.overflow-hidden {
+    overflow: hidden;
+}
+body {
+    overflow: hidden;
+}
+
+@media (max-width:780px) {
+    .login {
+        position: absolute;
+    }
+}

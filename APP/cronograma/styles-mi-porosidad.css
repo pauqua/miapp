@@ -1,0 +1,32 @@
+html, body {
+    height: 100%;
+    background-color: #C4E7D4;
+    
+}
+
+.banner {
+    background-image: url("./images/pattern.jpg");
+    height: 30%;
+}
+
+.btn-primary {
+    background-color: #9649CB;
+    border-color: #9649CB;
+    height: 100px;
+    width: 200px;
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    margin-top: 3%;
+    
+
+}
+
+
+.btn-primary:hover{
+    background-color: #AFBBF2;
+    border-color: #AFBBF2;
+
+}
+.btn-primary:focus{
+    outline-color:#AFBBF2;
+}
